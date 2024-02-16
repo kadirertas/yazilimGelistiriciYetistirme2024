@@ -17,7 +17,7 @@ using Entities.Concrete;
                  person.FirstName = "Kadir";
                  person.LastName = "Ertaş";
                  person.DateOfBirthYear = 2001;
-                 person.NationalIdentity = 11201980800;
+                 person.NationalIdentity = 11223344556;
             Person person2 = new Person();
              person2.FirstName = "Murat"; 
 

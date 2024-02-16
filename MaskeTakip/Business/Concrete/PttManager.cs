@@ -22,16 +22,21 @@ public class PttManager: ISuplierService
     public void GiveMask(Person person)  
     {
 
-        if(_aplicantService.CheckPerson(person)) 
-        {
+            if (_aplicantService.CheckPerson(person))
+            {
 
-            Console.WriteLine(person.FirstName  +" için maske verildi "); 
-        
-        
+                Console.WriteLine(person.FirstName + " için maske verildi ");
+
+            }
+            else
+            {
+
+                Console.WriteLine(person.FirstName + " için maske verilemedi");
+
+
+            }
+
+
         }
-
-     
-    
-    }
 }
 }

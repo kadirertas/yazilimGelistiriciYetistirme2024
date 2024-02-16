@@ -7,6 +7,7 @@
       "System.Collections.Generic.Dictionary`2",
       "System.Collections.Generic.List`1"
     ],
+    "messageContract": true,
     "namespaceMappings": [
       "*, MernisServiceReference"
     ],

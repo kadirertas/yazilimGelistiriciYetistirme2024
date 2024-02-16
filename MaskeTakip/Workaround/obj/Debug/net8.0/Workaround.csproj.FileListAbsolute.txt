@@ -62,3 +62,4 @@ C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\MaskeT
 C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\MaskeTakip\Workaround\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
 C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\MaskeTakip\Workaround\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
 C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\MaskeTakip\Workaround\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\bin\Debug\net8.0\introTekrar.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\bin\Debug\net8.0\introTekrar.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\bin\Debug\net8.0\introTekrar.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\bin\Debug\net8.0\introTekrar.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\bin\Debug\net8.0\introTekrar.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\refint\introTekrar.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\ref\introTekrar.dll

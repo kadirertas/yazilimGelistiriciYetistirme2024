@@ -12,3 +12,4 @@ C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introT
 C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.pdb
 C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.genruntimeconfig.cache
 C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\ref\introTekrar.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\introTekrar\introTekrar\obj\Debug\net8.0\introTekrar.sourcelink.json

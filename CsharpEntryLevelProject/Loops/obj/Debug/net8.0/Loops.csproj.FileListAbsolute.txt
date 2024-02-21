@@ -1,0 +1,15 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Loops\obj\Debug\net8.0\ref\Loops.dll

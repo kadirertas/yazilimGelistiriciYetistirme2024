@@ -1,0 +1,15 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.sourcelink.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\refint\TypesAndVariables.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\TypesAndVariables\obj\Debug\net8.0\ref\TypesAndVariables.dll

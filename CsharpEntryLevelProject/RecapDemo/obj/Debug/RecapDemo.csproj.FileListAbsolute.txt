@@ -1,0 +1,10 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\RecapDemo\obj\Debug\RecapDemo.pdb

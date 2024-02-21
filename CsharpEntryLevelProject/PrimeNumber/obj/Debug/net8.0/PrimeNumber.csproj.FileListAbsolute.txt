@@ -1,0 +1,15 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\bin\Debug\net8.0\PrimeNumber.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\bin\Debug\net8.0\PrimeNumber.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\bin\Debug\net8.0\PrimeNumber.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\bin\Debug\net8.0\PrimeNumber.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\bin\Debug\net8.0\PrimeNumber.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.sourcelink.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\refint\PrimeNumber.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\PrimeNumber.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\PrimeNumber\obj\Debug\net8.0\ref\PrimeNumber.dll

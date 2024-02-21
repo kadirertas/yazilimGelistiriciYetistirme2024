@@ -1,0 +1,15 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\bin\Debug\net8.0\Methods.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\bin\Debug\net8.0\Methods.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\bin\Debug\net8.0\Methods.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.sourcelink.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\CsharpEntryLevelProject\Methods\obj\Debug\net8.0\ref\Methods.dll

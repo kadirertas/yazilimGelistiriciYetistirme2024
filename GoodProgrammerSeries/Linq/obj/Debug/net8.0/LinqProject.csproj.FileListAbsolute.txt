@@ -1,0 +1,15 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\bin\Debug\net8.0\LinqProject.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\bin\Debug\net8.0\LinqProject.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\bin\Debug\net8.0\LinqProject.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\bin\Debug\net8.0\LinqProject.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.sourcelink.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\refint\LinqProject.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Linq\obj\Debug\net8.0\ref\LinqProject.dll

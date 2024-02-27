@@ -1,0 +1,15 @@
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\bin\Debug\net8.0\Generics.exe
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\bin\Debug\net8.0\Generics.deps.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\bin\Debug\net8.0\Generics.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\bin\Debug\net8.0\Generics.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.sourcelink.json
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\refint\Generics.dll
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.pdb
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\Users\kadir\OneDrive\Documents\DOSYALAR\Yazilim_Gelistirici_Yetistirme\GoodProgrammerSeries\Genericks\obj\Debug\net8.0\ref\Generics.dll
